@@ -2,3 +2,5 @@
 *puzzle.txt
 *test.txt
 *.DS_Store
+*venv/
+
